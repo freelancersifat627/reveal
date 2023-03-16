@@ -43,3 +43,14 @@ Start Banner Style
 /* ------------------
 End Banner Style 
 -------------------*/
+
+/* ------------------
+Start Client Section Style 
+-------------------*/
+.client-logo img{
+    width: 200px;
+}
+
+/* ------------------
+End Client Section Style 
+-------------------*/
