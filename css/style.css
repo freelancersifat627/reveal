@@ -1,0 +1,45 @@
+/* google fontfamily */
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500&family=Vollkorn&display=swap');
+
+*{
+    font-family: 'Vollkorn', serif;
+}
+
+/* ------------------
+Start Banner Style 
+-------------------*/
+.banner-img-1{
+    background-image: url("../image/carousel/2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-img-2{
+    background-image: url("../image/carousel/3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-img-3{
+    background-image: url("../image/carousel/4.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-img-4{
+    background-image: url("../image/carousel/5.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+/* ------------------
+End Banner Style 
+-------------------*/
